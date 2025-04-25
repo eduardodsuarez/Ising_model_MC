@@ -1,5 +1,5 @@
 # Modelo Ising simulado por método de Monte Carlo
 
-Resumen de las simulaciones 
-![descrição alternativa](/ising_model.svg)
+Resume das simulações 
+![Diferentes Simulações de redes](/ising_model.svg)
 
